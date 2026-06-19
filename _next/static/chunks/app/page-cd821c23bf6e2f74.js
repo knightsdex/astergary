@@ -406,7 +406,7 @@
                             }),
                             (0, a.jsx)("li", {
                               children: (0, a.jsx)("a", {
-                                href: "https://app.uniswap.org/#/swap?outputCurrency=0xee7e46d9686e0f56edb5b6427ed9b250e0da5392",
+                                href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xee7e46d9686e0f56edb5b6427ed9b250e0da5392",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:
@@ -1301,7 +1301,7 @@
                 (0, a.jsx)("div", {
                   className: "scroll-reveal mt-12 text-center",
                   children: (0, a.jsxs)("a", {
-                    href: "https://app.uniswap.org/#/swap?outputCurrency=0xee7e46d9686e0f56edb5b6427ed9b250e0da5392",
+                    href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xee7e46d9686e0f56edb5b6427ed9b250e0da5392",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
